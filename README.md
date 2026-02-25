@@ -26,6 +26,7 @@ I'm an **AI-assisted coding enthusiast** with extensive hands-on experience usin
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![J2EE/Jakarta EE](https://img.shields.io/badge/J2EE%2FJakarta_EE-FF6F00?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 
