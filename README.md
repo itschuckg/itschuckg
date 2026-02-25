@@ -68,6 +68,7 @@ I'm an **AI-assisted coding enthusiast** with extensive hands-on experience usin
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [ShopEase AI Experiment](https://github.com/itschuckg/shopease-ai-copilot-vs-claude) | AI-assisted e-commerce build comparing GitHub Copilot and Claude Code with architecture and delivery learnings | Angular, TypeScript, Node.js, Azure B2C |
+| [Azure Functions OpenAI RAG Chatbot](https://github.com/itschuckg/azure-functions-openai-rag-chatbot) | Serverless RAG chatbot using Azure OpenAI + Azure AI Search with deploy-ready architecture and documentation | Python, Azure Functions, Azure OpenAI, Azure AI Search |
 | [Taskmaster](https://github.com/itschuckg/Taskmaster-backend) | Full-stack task platform with layered backend architecture and role-based access patterns | Java, Spring Boot, Angular, TypeScript |
 | [Angular SPA](https://github.com/itschuckg/angular-spa-backend) | API-driven SPA demonstrating service integration and frontend-backend contract design | Spring Boot, Angular, TypeScript |
 | [Snake Game](https://github.com/itschuckg/snake-game) | Lightweight interactive project demonstrating clean state management fundamentals | JavaScript, HTML5 Canvas |
