@@ -1,8 +1,10 @@
 # Hi, I'm Charles!
 
-**Solution Architect** | System Design Enthusiast | Cloud & Security Advocate
+**Solution Architect** | System Design | Cloud, Security, and Modernization | **Software Engineer**
 
-I'm passionate about designing scalable, secure architectures with expertise in **payment integrations** and **modernizing legacy applications into cloud-native solutions**.
+I design and build scalable, secure systems with hands-on expertise in **payment integrations**, **legacy modernization**, and **cloud-native architecture on Azure**.
+
+I'm an **AI-assisted coding enthusiast** with extensive hands-on experience using **GitHub Copilot** and **Claude Code** to accelerate delivery and improve engineering workflows.
 
 ## 🏅 Certifications
 
@@ -19,7 +21,7 @@ I'm passionate about designing scalable, secure architectures with expertise in 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Backend
@@ -50,13 +52,24 @@ I'm passionate about designing scalable, secure architectures with expertise in 
 
 ---
 
+## 🏗️ Architecture Signals
+
+- Design for non-functional requirements: scalability, resilience, security, and operability
+- Apply reliability patterns: retries, idempotency, circuit breaking, and failure isolation
+- Build observability in from day one: structured logging, metrics, tracing, and alerting
+- Use API-first and event-driven integration patterns for evolvable systems
+- Drive modernization using incremental migration strategies (strangler pattern)
+
+---
+
 ## 📌 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Taskmaster](https://github.com/itschuckg/Taskmaster-backend) | Full-stack task management application | Java, Spring Boot, Angular, TypeScript |
-| [Angular SPA](https://github.com/itschuckg/angular-spa-backend) | Single-page application with REST API | Spring Boot, Angular, TypeScript |
-| [Snake Game](https://github.com/itschuckg/snake-game) | Classic arcade game | JavaScript, HTML5 Canvas |
+| [ShopEase AI Experiment](https://github.com/itschuckg/shopease-ai-copilot-vs-claude) | AI-assisted e-commerce build comparing GitHub Copilot and Claude Code with architecture and delivery learnings | Angular, TypeScript, Node.js, Azure B2C |
+| [Taskmaster](https://github.com/itschuckg/Taskmaster-backend) | Full-stack task platform with layered backend architecture and role-based access patterns | Java, Spring Boot, Angular, TypeScript |
+| [Angular SPA](https://github.com/itschuckg/angular-spa-backend) | API-driven SPA demonstrating service integration and frontend-backend contract design | Spring Boot, Angular, TypeScript |
+| [Snake Game](https://github.com/itschuckg/snake-game) | Lightweight interactive project demonstrating clean state management fundamentals | JavaScript, HTML5 Canvas |
 
 ---
 
